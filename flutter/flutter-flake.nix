@@ -56,6 +56,7 @@
             libXrandr
             libXi
             pcre2
+            tree #for view tree
           ];
 
           shellHook = ''
