@@ -38,6 +38,7 @@
             maven
             liquibase
             postgresql_jdbc
+            tree #for view tree
           ];
 
           shellHook = ''
