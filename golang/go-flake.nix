@@ -34,6 +34,7 @@
               gotools # Chứa các tool như goimports
               gofumpt # Trình format code Go chặt chẽ hơn gofmt
               golangci-lint # Linter phổ biến cho Go
+              tree #for view tree prj
             ];
 
             shellHook = ''
